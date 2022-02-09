@@ -38,7 +38,7 @@ The objective of this project is to design an application to play the board game
 
 ## 2. Procedure for installing the project locally
 
-- To install our project, **clone** our repository, and in an empty directory, type the following command:  `git clone https://git.unistra.fr/vondermarck-yanovskyy/a31-kingdomino.git`
+- To install our project, **clone** our repository, and in an empty directory, type the following command: `git clone https://git.unistra.fr/vondermarck-yanovskyy/a31-kingdomino.git`
 
 ### Possible problems encountered
 
@@ -100,7 +100,6 @@ Here is a video where a game is played. (youtube video)
 #### The rotation buttons
 
 - ![IMAGE_ALT](https://imgur.com/0MRfkq3.jpg) : The purpose of this button is to move the domino in either the vertical or horizontal direction.
-  
 - ![IMAGE_ALT](https://imgur.com/aENnmLV.jpg) :
   This button reverses the domino. The left tile will be placed on the right, and vice versa.
 
@@ -119,7 +118,14 @@ Here is a video where a game is played. (youtube video)
 - The player clicks on the purple arrow. You can see that the yellow tile, which is at the top left of the preview screen, is where the player clicks.
 - The player has selected the "L" (left) button, so the other tile of the domino, which is horizontally (the green tile), will be to the left of the yellow tile.
 
-## 5. Team members
+## 5. Contributing
 
 - Julien Von Der Marck
 - Alexander Yanovskyy
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/jvondermarck"><img src="https://avatars.githubusercontent.com/u/62793491?v=4" width="100px;" alt=""/><br /><sub><b>Julien Von Der Marck</b></sub></a><br /><a href="https://github.com/creativecommons/project_creativecommons.org/commits?author=Akpjunior94" title="Code">💻</a></td>
+    <td align="center"><a href="https://git.unistra.fr/yanovskyy"><img src="https://git.unistra.fr/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png" width="100px;" alt=""/><br /><sub><b>Alexander Yanovskyy</b></sub></a><br /><a href="https://github.com/creativecommons/project_creativecommons.org/commits?author=Akpjunior94" title="Code">💻</a></td>
+
+  </tr>
