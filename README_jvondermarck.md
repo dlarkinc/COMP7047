@@ -38,9 +38,7 @@ The objective of this project is to design an application to play the board game
 
 ## 2. Procedure for installing the project locally
 
-- To install our project, **clone** our repository, and in an empty directory, type the following command:
-
-git clone https://git.unistra.fr/vondermarck-yanovskyy/a31-kingdomino.git
+- To install our project, **clone** our repository, and in an empty directory, type the following command:  `git clone https://git.unistra.fr/vondermarck-yanovskyy/a31-kingdomino.git`
 
 ### Possible problems encountered
 
@@ -92,6 +90,7 @@ Causé par : java.lang.ClassNotFoundException: launcher.LauncherKingdominoRendu1
 ### Video
 
 Here is a video where a game is played. (youtube video)
+
 [![IMAGE_ALT](https://img.youtube.com/vi/DUabSjffzgM/0.jpg)](https://www.youtube.com/watch?v=DUabSjffzgM)
 
 ### Explanation of our domino placement buttons
@@ -101,6 +100,7 @@ Here is a video where a game is played. (youtube video)
 #### The rotation buttons
 
 - ![IMAGE_ALT](https://imgur.com/0MRfkq3.jpg) : The purpose of this button is to move the domino in either the vertical or horizontal direction.
+  
 - ![IMAGE_ALT](https://imgur.com/aENnmLV.jpg) :
   This button reverses the domino. The left tile will be placed on the right, and vice versa.
 
