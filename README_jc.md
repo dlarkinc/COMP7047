@@ -6,9 +6,9 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-<strong><a link="https://github.com/dcreedon/opensource.git">Open Source Repo</a> </strong>
-
+---
+[My Open Source Repo](https://github.com/dcreedon/opensource.git")
+---
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
