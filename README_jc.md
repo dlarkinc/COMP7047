@@ -7,8 +7,10 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 ---
+[![GitHub forks](https://img.shields.io/github/forks/dlarkinc/COMP7047)](https://github.com/dlarkinc/COMP7047/network)
 [My Open Source Repo](https://github.com/dcreedon/opensource.git")
-![DUB](https://img.shields.io/dub/l/dcreedon/opensource)
+[![GitHub issues](https://img.shields.io/github/issues/dlarkinc/COMP7047)](https://github.com/dlarkinc/COMP7047/issues)
+[![GitHub license](https://img.shields.io/github/license/dlarkinc/COMP7047)](https://github.com/dlarkinc/COMP7047/blob/main/LICENSE)
 ---
 <!-- PROJECT SHIELDS -->
 <!--
