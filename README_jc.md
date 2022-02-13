@@ -6,12 +6,12 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
----
+
 [![GitHub forks](https://img.shields.io/github/forks/dlarkinc/COMP7047)](https://github.com/dlarkinc/COMP7047/network)
 [My Open Source Repo](https://github.com/dcreedon/opensource.git")
 [![GitHub issues](https://img.shields.io/github/issues/dlarkinc/COMP7047)](https://github.com/dlarkinc/COMP7047/issues)
 [![GitHub license](https://img.shields.io/github/license/dlarkinc/COMP7047)](https://github.com/dlarkinc/COMP7047/blob/main/LICENSE)
----
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
