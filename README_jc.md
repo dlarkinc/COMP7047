@@ -8,6 +8,7 @@
 -->
 ---
 [My Open Source Repo](https://github.com/dcreedon/opensource.git")
+![DUB](https://img.shields.io/dub/l/dcreedon/opensource)
 ---
 <!-- PROJECT SHIELDS -->
 <!--
